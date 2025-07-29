@@ -5,7 +5,7 @@ A Flask app that connects to Spotify, fetches your top 50 tracks, and uses VADER
 ## Features
 - OAuth2-based Spotify login
 - Fetches user's top tracks
-- Analyzes mood using sentiment from track titles
+- Analyzes mood using sentiment 
 - Filters tracks by mood
 
 ## Tech Stack
